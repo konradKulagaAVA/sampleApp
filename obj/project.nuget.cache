@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ErsB5/kBQgD3uZ8uj2KU2uKjzSwdI7oA3gGYz4vshBz9PUwx58WmepsPU6+3HeHd+uBj+7dBXf3GOdoutYnv+g==",
+  "dgSpecHash": "twjgR1CVznGVnw8nQ0Rd5u1k1OJPrFTSiz1rYu/5OxU/U/BIJ5aHQFIr+RkJ+cwJaw25iWREe4jo6MxK1+czjQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\konrad.kulaga\\source\\repos\\Challenge3\\Challenge3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\konrad.kulaga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\konrad.kulaga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\konrad.kulaga\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\konrad.kulaga\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
